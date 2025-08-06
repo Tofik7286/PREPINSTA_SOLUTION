@@ -22,3 +22,4 @@ def getSum(num):
 
 
 print(getSum(num))
+
