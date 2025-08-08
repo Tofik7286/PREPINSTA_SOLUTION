@@ -11,3 +11,10 @@ print(f"Method 2 : {num1 ** num2}")
 
 
 # 3. Recursion
+def power_of_number(num, power):
+    if power == 0:
+        return 1
+    return num * power_of_number(num, power - 1)
+
+
+print(power_of_number(2, 3))
