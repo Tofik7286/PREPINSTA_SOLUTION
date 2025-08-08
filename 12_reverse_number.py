@@ -27,3 +27,12 @@ def findRev(num, rev):
 num = int(input("Enter Number : "))
 rev = 0
 print(findRev(num, rev))
+
+
+# Method 4 using string
+
+x = "99659"
+r = ""
+for i in x:
+    r = i + r
+print(r)
