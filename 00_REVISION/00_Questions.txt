@@ -1,0 +1,10 @@
+1.   Positive or Negative number
+2.   Check Whether a Number is Even or Odd in Python
+3.   Find the Sum of the First N Natural Numbers in Python
+4.   Find the Sum of N Natural Numbers
+5.   Find the Sum of Numbers in a given Range in Python
+6.   Find the Greatest of Two Numbers in Python
+7.   Find_the_Greatest_of_the_Three_Numbers​
+8.   Leap Year
+9.   Prime Number
+10.  python find prime numbers in range
